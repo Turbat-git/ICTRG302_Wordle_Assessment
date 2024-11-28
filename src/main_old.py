@@ -81,3 +81,7 @@ chosen_target_word = get_target_word(target_word)
 #print(chosen_target_word)
 chosen_user_guess = validate_user_guess(chosen_target_word, "all_words.txt")
 track_score("world", chosen_user_guess)
+
+
+
+

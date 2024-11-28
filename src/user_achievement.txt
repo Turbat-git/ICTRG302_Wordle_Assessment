@@ -1,0 +1,4 @@
+User Gian guessed the word in 1 attempt. The word was stone.
+User Chris guessed the word in 3 attempt. The word was pinky.
+User Adrian guessed the word in 1 attempt. The word was world.
+User DRIANA guessed the word in 0 attempt. The word was world.
